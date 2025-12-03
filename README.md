@@ -52,5 +52,5 @@ Content-Type: application/json
 ## TODO List:
 1) Set up new Spring Boot project for Screening System. Use Gradle or Maven as build tool.
 2) Implement REST API endpoint for screening requests.
-3) For PoC phase this repository contains hardcoded sanctioned entities and bank accounts.
+3) For PoC phase this repository contains hardcoded sanctioned entities.
 4) Implement simple equals based screening check for our PoC phase. Building complex validation is not part of this PoC.
